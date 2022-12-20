@@ -1,0 +1,4 @@
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\x64\Debug\SimpleNotepad.vcxproj.AssemblyReference.cache
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\x64\Debug\SimpleNotepad.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\x64\Debug\SimpleNotepad.MyForm.resources
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\x64\Debug\SimpleNotepad.vcxproj.GenerateResource.cache

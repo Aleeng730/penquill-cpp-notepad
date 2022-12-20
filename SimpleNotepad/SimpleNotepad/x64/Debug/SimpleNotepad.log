@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\MyForm.h(223,15): warning C4101: 'fontDialog': unreferenced local variable
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\MyForm.h(222,19): warning C4101: 'saveFileAsDialog': unreferenced local variable
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\MyForm.h(220,19): warning C4101: 'openFileDialog': unreferenced local variable
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\MyForm.h(221,19): warning C4101: 'saveFileDialog': unreferenced local variable
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\MyForm.h(259,20): warning C4101: 'e': unreferenced local variable
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\MyForm.h(312,21): warning C4101: 'e': unreferenced local variable
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\MyForm.h(357,21): warning C4101: 'e': unreferenced local variable
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\MyForm.h(389,21): warning C4101: 'e': unreferenced local variable
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\MyForm.h(416,21): warning C4101: 'e': unreferenced local variable
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\MyForm.h(473,20): warning C4101: 'e': unreferenced local variable
+C:\Users\aling\source\repos\SimpleNotepad\SimpleNotepad\MyForm.cpp(8,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SimpleNotepad.vcxproj -> C:\Users\aling\source\repos\SimpleNotepad\x64\Debug\SimpleNotepad.exe
