@@ -1,4 +1,4 @@
-# PenQuill - A Simple Notepad Clone
+# PenQuill - A Simple Notepad Clone in C++
 PenQuill is a simple Notepad clone created in C++ and WinForms. This is meant to emulate Windows Notepad's more advanced saving and opening file systems. 
 
 This includes:
